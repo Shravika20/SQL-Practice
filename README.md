@@ -22,6 +22,12 @@ learning for placements, coding interviews, and academic practice.
 - Transactions
 - Practice Queries
 
+## Programs Added
+### SQL Basics
+- Create Student Table
+- Insert Records into Student Table
+- Retrieve Records using SELECT
+
 ## Goal
 To strengthen my SQL skills and improve database query writing for software engineering interviews.
 
