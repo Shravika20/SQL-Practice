@@ -1,0 +1,4 @@
+SELECT * FROM Student
+ORDER BY Name;
+SELECT * FROM Student
+ORDER BY Age DESC;
