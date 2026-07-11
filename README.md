@@ -27,6 +27,15 @@ learning for placements, coding interviews, and academic practice.
 - Create Student Table
 - Insert Records into Student Table
 - Retrieve Records using SELECT
+### Operators
+- WHERE Clause
+- Comparison Operators
+- Logical Operators (AND, OR, NOT)
+- ORDER BY
+- DISTINCT
+- BETWEEN
+- IN
+- LIKE
 
 ## Goal
 To strengthen my SQL skills and improve database query writing for software engineering interviews.
