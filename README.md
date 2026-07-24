@@ -33,7 +33,7 @@ learning for placements, coding interviews, and academic practice.
 - Logical Operators (AND, OR, NOT)
 - ORDER BY
 - DISTINCT
-- BETWEEN
+- BETWEENMethods
 - IN
 - LIKE
 
