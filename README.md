@@ -36,6 +36,19 @@ learning for placements, coding interviews, and academic practice.
 - BETWEENMethods
 - IN
 - LIKE
+### Aggregate Functions
+- COUNT()
+- SUM()
+- AVG()
+- MAX()
+- MIN()
+### GROUP BY
+- Group records based on a column
+- Count employees department-wise
+- Calculate department-wise salary
+### HAVING
+- Filter grouped records
+- Find departments with average salary greater than a specified value
 
 ## Goal
 To strengthen my SQL skills and improve database query writing for software engineering interviews.
