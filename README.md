@@ -49,6 +49,8 @@ learning for placements, coding interviews, and academic practice.
 ### HAVING
 - Filter grouped records
 - Find departments with average salary greater than a specified value
+### Joins
+- INNER JOIN
 
 ## Goal
 To strengthen my SQL skills and improve database query writing for software engineering interviews.
